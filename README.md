@@ -19,3 +19,15 @@ Algorithm exercise
 https://www.zhihu.com/question/19602183
 strengthsfinder
 http://collabedit.com/suhav
+
+Exercise
+1. Add Two Numbers
+2. 3Sum
+3. Sort Colors
+4. 4Sum
+5. Maximum Subarray
+6. Remove Duplicates from Sorted Array II
+7. Longest Consecutive Sequence
+8. Rotate Image
+9. Count Numbers with Unique Digits
+10. Triangle
